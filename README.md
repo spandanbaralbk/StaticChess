@@ -39,3 +39,4 @@ Then open `index.html` in your preferred browser.
 
 <img width="1303" height="677" alt="Static Chess Screenshot" src="https://github.com/user-attachments/assets/7c9896af-8c6a-4c57-baea-3e2c4524020a" />
 
+this has some code that was taken from an AI , around 5-10 % 
